@@ -148,7 +148,7 @@
     "src/**/*.ts",
     "src/**/*.json",
     ".env"
-  ],
+, "src/app"  ],
   "exclude": [
     "node_modules"
   ]
