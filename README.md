@@ -33,6 +33,12 @@ npm i --save-dev @types/cors
 npm i express-validator
 
 
+npm install -g npm-check-updates
+npx npm-check-updates           // comprobar
+npx npm-check-updates -u        // actualiza
+
+npm i morgan
+npm i --save-dev @types/morgan
 ```
 
 Ejercicio 1:
@@ -50,3 +56,7 @@ El formulario de registro
 
 Ejercicio 3:
 Crea un fronted con Vite + tailwind 4.0 + react
+
+
+
+- [] refresh token

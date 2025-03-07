@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from "express";
-import { CategoryService } from "@/services/category.service";
+import { CategoryService } from "../services/category.service";
 import { HttpException } from "../exceptions/httpException";
 
 export class CategoryController {
